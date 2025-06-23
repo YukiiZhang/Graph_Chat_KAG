@@ -85,5 +85,5 @@ Graph_chat/
 
 ## 📝 TODO
 
-**todo1: 知识图谱可视化**：集成像 Neo4j Bloom 前端可视化库
+**todo1: 知识图谱可视化**：集成像 Neo4j Bloom 前端可视化库  
 **todo2: 模型热插拔**：支持在线切换/加载不同 LLM
