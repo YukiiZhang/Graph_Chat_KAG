@@ -1,0 +1,14 @@
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略环境变量配置
+.env
+
+# 忽略本地文档测试文件夹
+test_doc/
+
+# 忽略虚拟环境
+venv/
+.env.*
+/embeddings/
